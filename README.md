@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansh Sachdeva</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [NewsGen](https://github.com/AnshS04/NewsGen-React)
+- 🔭 I’m currently working on [NotesVault](https://github.com/AnshS04/NotesVault-MERN)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **ReactJS**
 

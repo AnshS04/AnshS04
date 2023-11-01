@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansh Sachdeva</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [NotesVault](https://github.com/AnshS04/NotesVault-MERN)
+- 🔭 I’m currently working on [WheelDeals](https://github.com/AnshS04/WheelDeals-Nextjs)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **ReactJS**
 

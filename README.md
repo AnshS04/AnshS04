@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ansh Sachdeva</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on Chime
+- 🔭 I’m currently working on Chimes
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Fullstack Development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, Django, Rails**
 
 - 📫 How to reach me **sachdevaansh2002@gmail.com**
 
